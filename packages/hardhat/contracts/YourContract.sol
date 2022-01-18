@@ -10,6 +10,7 @@ contract YourContract {
   // event SetPurpose(address sender, string purpose);
 
   string public purpose = "Building Unstoppable Apps!!!";
+  owner = 0xCBdAc3DdA616E97DbE686AeFdB391f340741Aa32
 
   constructor() {
     // what should we do on deploy?
